@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_key_storage_settings"
+        android:title="Global settings" >
+
+        <!-- opens another nested subscreen -->
+        <PreferenceScreen
+            android:key="button_voicemail_setting_key"
+            android:persistent="false"
+            android:title="Voice mail" >
+            <CheckBoxPreference
+                android:defaultValue="1"
+                android:key="connect_at_startup"
+                android:title="Connect in startup" />
+        </PreferenceScreen>
+
+        <ListPreference
+            android:defaultValue="NaN"
+            android:dialogTitle="Choose device"
+            android:key="@string/pref_default_address"
+            android:title="Default device" />
+
+        <Preference android:title="Web test" >
+            <intent         
+                android:action="android.intent.action.VIEW"
+                android:targetClass="bneumann.meisterlampe.SetupActivity"
+                android:targetPackage="bneumann.meisterlampe"  />
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

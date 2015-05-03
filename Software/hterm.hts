@@ -1,0 +1,48 @@
+<HtermSequenceFile>
+    <ItemList>
+        <SequenceItem name="Test 3 frames">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[03] h[01] h[00] h[00] h[01] h[02] h[00] h[00] h[01]" />
+        </SequenceItem>
+        <SequenceItem name="Start Tracer">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[1B] h[00] h[00] h[01]" />
+        </SequenceItem>
+        <SequenceItem name="Stop Tracer">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[1B] h[00] h[00] h[00]" />
+        </SequenceItem>
+        <SequenceItem name="Get Error log">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[15] h[00] h[00] h[00]" />
+        </SequenceItem>
+        <SequenceItem name="Get Version">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[18] h[00] h[00] h[00]" />
+        </SequenceItem>
+        <SequenceItem name="Get Time">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[17] h[00] h[00] h[00]" />
+        </SequenceItem>
+        <SequenceItem name="Set Values">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[0B] h[02] h[00] h[00] h[00] h[02] h[01] h[00] h[10] h[02] h[02] h[00] h[20] h[02] h[03] h[00] h[30] h[02] h[04] h[00] h[40] h[02] h[05] h[00] h[50] h[02] h[06] h[00] h[60] h[02] h[07] h[00] h[70] h[02] h[08] h[00] h[80] h[02] h[09] h[00] h[90]" />
+        </SequenceItem>
+        <SequenceItem name="Get Values">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[0B] h[03] h[00] h[00] h[00] h[03] h[01] h[00] h[10] h[03] h[02] h[00] h[20] h[03] h[03] h[00] h[30] h[03] h[04] h[00] h[40] h[03] h[05] h[00] h[50] h[03] h[06] h[00] h[60] h[03] h[07] h[00] h[70] h[03] h[08] h[00] h[80] h[03] h[09] h[00] h[90]" />
+        </SequenceItem>
+        <SequenceItem name="Cause wrong header">
+            <description></description>
+            <sequence value="a[TestBlabla]" />
+        </SequenceItem>
+        <SequenceItem name="Cause unknown mode">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[00] h[05] h[00] h[10]" />
+        </SequenceItem>
+        <SequenceItem name="Cause unknown command">
+            <description></description>
+            <sequence value="h[00] h[00] h[00] h[02] h[FF] h[05] h[00] h[10]" />
+        </SequenceItem>
+    </ItemList>
+</HtermSequenceFile>

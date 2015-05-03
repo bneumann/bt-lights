@@ -1,0 +1,60 @@
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\le\SPITest.exe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\be\SPITest.exe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\le\SPITest.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\be\SPITest.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\SPITest.exe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\SPITest.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\le\SPITest.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\le\SPITest.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\be\SPITest.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\be\SPITest.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\SPITest.exe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\SPITest.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\be\SPITest.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\be\SPITest.pdbx
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\le\SPITest.pe
+C:\Users\benni\AppData\Local\Temporary Projects\SPITest\obj\Debug\le\SPITest.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\le\SPITest.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\be\SPITest.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\le\SPITest.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\be\SPITest.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\SPITest.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\SPITest.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\le\SPITest.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\le\SPITest.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\be\SPITest.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\be\SPITest.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.dll
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\ResolveAssemblyReference.cache
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\TinyCLR_DebugReferences.cache
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\be\SPITest.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\be\SPITest.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\le\SPITest.pe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\le\SPITest.pdbx
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\SPITest.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\SPITest\SPITest\SPITest\obj\Debug\SPITest.pdb

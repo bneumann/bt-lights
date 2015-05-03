@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_ctrl_default_device">default_device_list</string>
+    <string name="pref_default_device">default_device</string>
+    <string name="pref_default_address">default_address</string>
+    <string name="pref_first_time_start">first_time_start</string>
+</resources>

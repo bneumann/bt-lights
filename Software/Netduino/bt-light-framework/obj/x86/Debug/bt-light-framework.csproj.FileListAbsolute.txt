@@ -1,0 +1,5 @@
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\bt-light-framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\bt-light-framework\bin\Debug\bt-light-framework.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\bt-light-framework\bin\Debug\bt-light-framework.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\bt-light-framework\obj\x86\Debug\bt-light-framework.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\bt-light-framework\obj\x86\Debug\bt-light-framework.pdb

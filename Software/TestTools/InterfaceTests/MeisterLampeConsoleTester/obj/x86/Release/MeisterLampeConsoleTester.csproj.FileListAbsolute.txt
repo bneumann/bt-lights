@@ -1,0 +1,10 @@
+C:\Users\benni\AppData\Local\Temporary Projects\MeisterLampeConsoleTester\bin\Release\MeisterLampeConsoleTester.exe
+C:\Users\benni\AppData\Local\Temporary Projects\MeisterLampeConsoleTester\bin\Release\MeisterLampeConsoleTester.pdb
+C:\Users\benni\AppData\Local\Temporary Projects\MeisterLampeConsoleTester\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\benni\AppData\Local\Temporary Projects\MeisterLampeConsoleTester\obj\x86\Release\MeisterLampeConsoleTester.exe
+C:\Users\benni\AppData\Local\Temporary Projects\MeisterLampeConsoleTester\obj\x86\Release\MeisterLampeConsoleTester.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\TestTools\InterfaceTests\MeisterLampeConsoleTester\obj\x86\Release\MeisterLampeConsoleTester.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\TestTools\InterfaceTests\MeisterLampeConsoleTester\obj\x86\Release\MeisterLampeConsoleTester.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\TestTools\InterfaceTests\MeisterLampeConsoleTester\bin\Release\MeisterLampeConsoleTester.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\TestTools\InterfaceTests\MeisterLampeConsoleTester\bin\Release\MeisterLampeConsoleTester.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\TestTools\InterfaceTests\MeisterLampeConsoleTester\obj\x86\Release\ResolveAssemblyReference.cache

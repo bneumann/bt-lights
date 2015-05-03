@@ -1,0 +1,16 @@
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\bin\Debug\Constants.cs
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\bin\Debug\TestGUI.exe.config
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\bin\Debug\TestGUI.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\bin\Debug\TestGUI.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\bin\Debug\GraphLib.dll
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\bin\Debug\GraphLib.pdb
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\BluetoothLights.controller.resources
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\BluetoothLights.Form1.resources
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\BluetoothLights.plotter.resources
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\BluetoothLights.Properties.Resources.resources
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\BluetoothLights.SharedRessources.resources
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\TestGUI.exe
+D:\SVN_LOCAL\bt-lights\trunk\Software\Netduino\TestGUI\TestGUI\obj\x86\Debug\TestGUI.pdb
